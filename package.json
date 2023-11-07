@@ -30,7 +30,6 @@
       "react-app/jest"
     ]
   },
-  "homepage": "https://JUNOSHON.github.io/shoppydeploy/",
   "browserslist": {
     "production": [
       ">0.2%",
