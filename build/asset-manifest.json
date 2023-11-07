@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/shoppy/static/css/main.d13c1bad.css",
+    "main.js": "/shoppy/static/js/main.8c5184b9.js",
+    "static/js/787.8bfa6160.chunk.js": "/shoppy/static/js/787.8bfa6160.chunk.js",
+    "static/media/banner.jpg": "/shoppy/static/media/banner.b1d86e4025b8f85a50e0.jpg",
+    "index.html": "/shoppy/index.html",
+    "main.d13c1bad.css.map": "/shoppy/static/css/main.d13c1bad.css.map",
+    "main.8c5184b9.js.map": "/shoppy/static/js/main.8c5184b9.js.map",
+    "787.8bfa6160.chunk.js.map": "/shoppy/static/js/787.8bfa6160.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d13c1bad.css",
+    "static/js/main.8c5184b9.js"
+  ]
+}
